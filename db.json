@@ -1,4 +1,4 @@
-[
+{users :[
   {
     "id" :1,
     "name" : "nguyen van an",
@@ -78,6 +78,7 @@
     "Avatar": "Http://example.com/avatar/an.jpg",
     "dateOfBirth" : "1990-05-15",
   },
+]}
   
   
   
