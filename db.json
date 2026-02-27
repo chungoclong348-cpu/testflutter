@@ -5,13 +5,13 @@
     "email" : "nguyenvnaan@gmail.com",
     "phone" : "0912345678",
     "Avatar": "Http://example.com/avatar/an.jpg",
-    "dateOfBirth" : "1990-05-15",},
+    "dateOfBirth" : "1990-05-15"},
     {"id" :1,
     "name" : "nguyen van an",
     "email" : "nguyenvnaan@gmail.com",
     "phone" : "0912345678",
     "Avatar": "Http://example.com/avatar/an.jpg",
-    "dateOfBirth" : "1990-05-15",},
+    "dateOfBirth" : "1990-05-15"}
   ]
     
 }
