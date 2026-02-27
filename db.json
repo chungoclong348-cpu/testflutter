@@ -1,19 +1,20 @@
 {
-  "users":[
-    {"id" :1,
-    "name" : "nguyen van an",
-    "email" : "nguyenvnaan@gmail.com",
-    "phone" : "0912345678",
-    "Avatar": "Http://example.com/avatar/an.jpg",
-    "dateOfBirth" : "1990-05-15"},
-    {"id" :1,
-    "name" : "nguyen van an",
-    "email" : "nguyenvnaan@gmail.com",
-    "phone" : "0912345678",
-    "Avatar": "Http://example.com/avatar/an.jpg",
-    "dateOfBirth" : "1990-05-15"}
-  ]
-    
+   "users":[
+      {
+         "id":1,
+         "name":"nguyen van an",
+         "email":"nguyenvnaan@gmail.com",
+         "phone":"0912345678",
+         "Avatar":"Http://example.com/avatar/an.jpg",
+         "dateOfBirth":"1990-05-15"
+      },
+      {
+         "id":2,
+         "name":"nguyen van han",
+         "email":"nguyenvnahan@gmail.com",
+         "phone":"0912345688",
+         "Avatar":"Http://example.com/avatar/han.jpg",
+         "dateOfBirth":"1999-05-15"
+      }
+   ]
 }
-  
-  
