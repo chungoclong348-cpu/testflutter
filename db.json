@@ -31,20 +31,7 @@
          "username":"nguyenvanhan",
          "password":"han123456",
          "status":"active"
-      },
-      {
-         "id":3,
-         "userId":3,
-         "username":"nguyenvanvan",
-         "password":"van123456",
-         "status":"active"
-      },
-      {
-         "id":4,
-         "userId":4,
-         "username":"nguyenvantan",
-         "password":"tan123456",
-         "status":"active"
       }
+      
    ]
 }
