@@ -17,39 +17,34 @@
          "dateOfBirth":"1999-05-15"
       }
    ],
-   
    "accounts":[
       {
-         "id": 1,
-      "userId": 1,
-      "username": "nguyenvanan",
-      "password": "an123456",
-      "status": "active"
+         "id":1,
+         "userId":1,
+         "username":"nguyenvanan",
+         "password":"an123456",
+         "status":"active"
       },
-       {
-         "id": 2,
-      "userId": 2,
-      "username": "nguyenvanhan",
-      "password": "han123456",
-      "status": "active"
+      {
+         "id":2,
+         "userId":2,
+         "username":"nguyenvanhan",
+         "password":"han123456",
+         "status":"active"
       },
-       {
-         "id": 3,
-      "userId": 3,
-      "username": "nguyenvanvan",
-      "password": "van123456",
-      "status": "active"
+      {
+         "id":3,
+         "userId":3,
+         "username":"nguyenvanvan",
+         "password":"van123456",
+         "status":"active"
       },
-       {
-         "id": 4,
-      "userId": 4,
-      "username": "nguyenvantan",
-      "password": "tan123456",
-      "status": "active"
-      },
+      {
+         "id":4,
+         "userId":4,
+         "username":"nguyenvantan",
+         "password":"tan123456",
+         "status":"active"
+      }
    ]
-   
-      
-   
-    
 }
