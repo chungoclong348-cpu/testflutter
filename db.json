@@ -16,5 +16,35 @@
          "Avatar":"Http://example.com/avatar/han.jpg",
          "dateOfBirth":"1999-05-15"
       }
-   ]
+   ],
+   
+   "accounts":
+   {
+      "id": 1,
+      "userId": 1,
+      "username": "nguyenvanan",
+      "password": "an123456",
+      "status": "active"
+   },
+    {
+      "id": 2,
+      "userId": 2,
+      "username": "nguyenvantan",
+      "password": "an123486",
+      "status": "active"
+   },
+ {
+      "id": 3,
+      "userId": 3,
+      "username": "nguyenvanhan",
+      "password": "an1234566",
+      "status": "active"
+   },
+ {
+      "id": 4,
+      "userId": 4,
+      "username": "nguyenvanvan",
+      "password": "an12345456",
+      "status": "active"
+   }
 }
